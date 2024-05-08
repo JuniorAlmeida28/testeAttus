@@ -2,8 +2,8 @@
 
 Projeto desafio Attus Procuradoria que realiza o de pessoas e endereços.
 
-<img src="/src/main/resources/ClasseDiagram/Diagrama_de_classe.png" alt="Texto Alternativo">
 
+![Diagrama de classe](github.com/JuniorAlmeida28/testeAttus/blob/main/attusvaga/src/main/resources/ClasseDiagram/Diagrama_de_classe.png)
 
 ### 📋 Pré-requisitos
 
