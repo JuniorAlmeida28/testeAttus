@@ -2,9 +2,8 @@
 
 Projeto desafio Attus Procuradoria que realiza o de pessoas e endereços.
 
-## 🚀 Começando
+<img src="/src/main/resources/ClasseDiagram/Diagrama_de_classe.png" alt="Texto Alternativo">
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
 ### 📋 Pré-requisitos
 
